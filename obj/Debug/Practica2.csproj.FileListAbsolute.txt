@@ -1,0 +1,16 @@
+C:\Users\finwi\Desktop\C# Santi\Practica2\bin\Debug\Practica2.exe.config
+C:\Users\finwi\Desktop\C# Santi\Practica2\bin\Debug\Practica2.exe
+C:\Users\finwi\Desktop\C# Santi\Practica2\bin\Debug\Practica2.pdb
+C:\Users\finwi\Desktop\C# Santi\Practica2\obj\Debug\Practica2.csproj.AssemblyReference.cache
+C:\Users\finwi\Desktop\C# Santi\Practica2\obj\Debug\Practica2.csproj.SuggestedBindingRedirects.cache
+C:\Users\finwi\Desktop\C# Santi\Practica2\obj\Debug\Practica2.csproj.CoreCompileInputs.cache
+C:\Users\finwi\Desktop\C# Santi\Practica2\obj\Debug\Practica2.exe
+C:\Users\finwi\Desktop\C# Santi\Practica2\obj\Debug\Practica2.pdb
+C:\C# FACULTAD\Practica2-20220324T182216Z-001\Practica2\bin\Debug\Practica2.exe.config
+C:\C# FACULTAD\Practica2-20220324T182216Z-001\Practica2\bin\Debug\Practica2.exe
+C:\C# FACULTAD\Practica2-20220324T182216Z-001\Practica2\bin\Debug\Practica2.pdb
+C:\C# FACULTAD\Practica2-20220324T182216Z-001\Practica2\obj\Debug\Practica2.csproj.AssemblyReference.cache
+C:\C# FACULTAD\Practica2-20220324T182216Z-001\Practica2\obj\Debug\Practica2.csproj.SuggestedBindingRedirects.cache
+C:\C# FACULTAD\Practica2-20220324T182216Z-001\Practica2\obj\Debug\Practica2.csproj.CoreCompileInputs.cache
+C:\C# FACULTAD\Practica2-20220324T182216Z-001\Practica2\obj\Debug\Practica2.exe
+C:\C# FACULTAD\Practica2-20220324T182216Z-001\Practica2\obj\Debug\Practica2.pdb
