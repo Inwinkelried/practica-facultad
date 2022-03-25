@@ -87,8 +87,61 @@ namespace Practica2
             //Console.ReadKey();
 
             //EJERCICIO8
-                
+            //int sum = 0;
+            //Console.WriteLine("Ingrese un numero: ");
+            //int numero = int.Parse(Console.ReadLine());
 
+            //for ( int i = 0; i < numero; i++)
+            //{
+            //     sum += i;
+            //}
+            //Console.WriteLine("la suma de los anteriores al numero ingresado es: " + sum);
+            //Console.ReadLine();
+
+            //EJERCICIO9 //REVISAR
+
+            //int sumPos = 0;
+            //int sumNeg = 0;
+            //Console.WriteLine("ingrese numeros:");
+            //for (int i = 0; i == 10; i++)
+            //{
+
+            //   int numero = int.Parse (Console.ReadLine());
+
+            //   if (numero >= 0)
+            //        sumPos += numero;
+            //   else
+            //        sumNeg += numero;
+            //}
+            //Console.WriteLine("suma de positivos: " + sumPos);
+            //Console.WriteLine("suma de negativos: " + sumNeg);
+            //Console.ReadKey();
+
+            //EJERCICIO10
+
+            //Console.WriteLine("Ingrese un numero: ");
+            //double numero= double.Parse(Console.ReadLine());
+            //double cuadrado = Math.Pow(numero, 2);
+            //double cubo = Math.Pow(numero, 3);
+            //Console.WriteLine("numero al cuadrado: " + cuadrado);
+            //Console.WriteLine("numero al cubo: " + cubo);
+            //Console.ReadLine();
+
+            //EJERCICIO11
+
+            //Console.WriteLine("Ingrese 3 catetos :");
+            //int cateto1 = int.Parse(Console.ReadLine());
+            //int cateto2 = int.Parse(Console.ReadLine());
+            //int cateto3 = int.Parse(Console.ReadLine());
+
+            //if (cateto1 == cateto2) && (cateto1 = cateto3)
+            //    Console.WriteLine("triangulo equilatero");
+            //else if (cateto1 == cateto2 || cateto1 = cateto3 || cateto2 == cateto3)
+            //    Console.WriteLine("triangulo isosceles");
+            //else Console.WriteLine("triangulo escaleno");
+            //Console.ReadLine();
+                    
+           
 
 
 
